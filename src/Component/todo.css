@@ -1,0 +1,11 @@
+.expence_from{
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    align-items: center;
+ background-color: rgb(168, 37, 185);
+ height: 134px;
+ width: 50%;
+ border-radius: 5px;
+ /* border: 2px solid rgb(26, 85, 94); */
+}
